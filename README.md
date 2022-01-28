@@ -1,2 +1,2 @@
 # USB-Disabler
-Disable specific usb device.
+Disable usb device for protection in user-space.

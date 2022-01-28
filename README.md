@@ -7,7 +7,7 @@ in our tests usb keyboards and mouses are not affected because they defined in d
 ## Win32 Objects And Structures
 [- SP_DEVINFO_DATA](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/ns-setupapi-sp_devinfo_data)<br>
 [- HDEVINFO](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/device-information-sets)<br>
-[- DEVPROPTYPE](https://docs.microsoft.com/en-us/previous-versions/ff543546(v=vs.85)<br>
+[- DEVPROPTYPE](https://docs.microsoft.com/en-us/previous-versions/ff543546(v=vs.85))<br>
 [- SP_PROPCHANGE_PARAMS](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/ns-setupapi-sp_propchange_params)<br>
 
 ## Win32 Functions

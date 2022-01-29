@@ -18,4 +18,4 @@ in our tests usb keyboards and mouses are not affected because they defined in d
  - SetupDiGetDeviceRegistryPropertyA
 
 TODO:
-- add support to other class guid.
+- add support to other classes guid.
